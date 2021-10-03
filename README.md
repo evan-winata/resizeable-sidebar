@@ -11,7 +11,7 @@ This is a simple resizeable sidebar component that can be used to show various t
 
 ## Sample screencast
 
-![Sample](https://github.com/evan-winata/resizeable-sidebar/tree/master/docs/sidebar-sample.gif "Sample")
+![Sample](https://raw.githubusercontent.com/evan-winata/resizeable-sidebar/master/docs/sidebar-sample.gif)
 
 ## How to run this project
 
