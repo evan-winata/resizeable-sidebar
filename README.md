@@ -15,4 +15,4 @@ This is a simple resizeable sidebar component that can be used to show various t
 
 ## How to run this project
 
-Simply clone this repo and do `yarn start`. The project should run on `localhost:3000`.
+Simply clone this repo, do `yarn` and `yarn start`. The project should run on `localhost:3000`.
